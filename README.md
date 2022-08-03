@@ -11,7 +11,7 @@ How can you add, change or remove features to get more out of your data?
 Exploratory data analysis (EDA) is often an iterative brainstorming process where you pose a question, review the data, and develop further questions to investigate before beginning model development work. The image below shows how the brainstorming phase is connected with that of understanding the variables and how this in turn is connected again with the brainstorming phase.
 
 
-Image Credit: Andrew D.
+
 
 In this context, the project consists of 3 parts in general:
 
